@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portfólio - Kelly Mendes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    a {
+      color: #2980b9;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Kelly Mendes</h1>
+    <p>Futura desenvolvedora | Criadora de conteúdo | Curiosa em tecnologia</p>
+  </header>
+
+  <section>
+    <h2>Sobre mim</h2>
+    <p>Sou estudante interessada em tecnologia e criação digital. Estou buscando meu primeiro emprego e desenvolvendo projetos para praticar minhas habilidades.</p>
+  </section>
+
+  <section>
+    <h2>Projetos</h2>
+    <ul>
+      <li><a href="https://github.com/seu-usuario/nome-do-projeto">Projeto 1</a> – Descrição simples do projeto</li>
+      <!-- Adicione mais projetos aqui -->
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contato</h2>
+    <p>Email: seuemail@email.com</p>
+    <p>GitHub: <a href="https://github.com/seu-usuario">@seu-usuario</a></p>
+  </section>
+</body>
+</html>
